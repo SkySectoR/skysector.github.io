@@ -94,7 +94,7 @@ p {
 	margin: auto;
 	margin-bottom: 0.5em;
 	order: 2;
-	width:70%;
+	width: 70%;
 	flex: 1 1 auto;
 }
 
@@ -215,6 +215,7 @@ div.buttons {
 		width: 100%;
 		font-size: 1.5em;
 	}
+
 	p {
 		width: 100%;
 	}
